@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Sachin.</h2>
 <p align="center">
-  <a href="linkedin.com/in/sachinpatalasingh">LinkedIn</a> •
+  <a href="https://linkedin.com/in/sachinpatalasingh">LinkedIn</a> •
   <a href="https://x.com/fMRI_boy">Twitter</a>
 </p>
 
