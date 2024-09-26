@@ -1,6 +1,6 @@
 ## Hi there! I am Sachin 👋
 
-- 🔭 I’m currently working at [BrainSightAI]([https://knowbe4.com](https://www.brainsightai.com/)) as a Senior Imaging Engineer and Specialist Level-II
+- 🔭 I’m currently working at [BrainSightAI]([https://www.brainsightai.com/]) as a Senior Imaging Engineer and Specialist Level-II
 - I can yap about Python, Machine Learning, Deep Learning, Neuroscience and Physics
 
 - Some of the fun projects developed by me (and, of course, my buddies ChatGPT and Gemini. I love you guys <3 )
