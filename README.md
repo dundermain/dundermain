@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there! I am Sachin 👋
+
+- 🔭 I’m currently working at [BrainSightAI]([https://knowbe4.com](https://www.brainsightai.com/)) as a Senior Imaging Engineer and Specialist Level-II
+- I can yap about Python, Machine Learning, Deep Learning, Neuroscience and Physics
+
+- Some of the fun projects developed by me (and, of course, my buddies ChatGPT and Gemini. I love you guys <3 )
 
 <!--
 **dundermain/dundermain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
