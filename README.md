@@ -5,8 +5,21 @@
 </p>
 
 - 🔭 I’m currently working at [BrainSightAI](https://www.brainsightai.com/) as a Senior Imaging Engineer and Specialist Level-II
-- I can yap about Python, Machine Learning, Deep Learning, Neuroscience and Physics
+- I can yap about Python, Machine Learning, Deep Learning, Neuroscience, Physics and Trains.
+  
+-------
 
+**📝 Fun Side**
+- Some of the fun projects developed by me (and, of course, my buddies ChatGPT and Gemini. I love you guys <3 )
+
+<!-- BLOG-POST-LIST:START -->
+- [BubblePop](https://bubblewrappop.github.io/bubblepop/)
+- [NutriBuddy](https://nutribuddy.github.io/)
+- [ShakesPic]
+- [ImCaption]
+<!-- BLOG-POST-LIST:END -->
+
+-------
 - Some of the fun projects developed by me (and, of course, my buddies ChatGPT and Gemini. I love you guys <3 )
 
 <!--
