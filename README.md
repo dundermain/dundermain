@@ -21,6 +21,14 @@ Some of the fun projects developed by me (and, of course, my buddies ChatGPT and
 - [ImCaption]
 <!-- BLOG-POST-LIST:END -->
 
+
+And some projects that are under development
+
+<!-- BLOG-POST-LIST:START -->
+- Alarto: A Chrome Extension to save reminders to revisit crucial websites or forms.
+- TIOY: Try It On Yourself- A virtual trial room to try on clothes before buying them. It is an experiment to reconstruct 3D images from 2D Pictures.
+- Shredder: A visually appealing online shredding machine that will help you relax by shredding whatever you hate
+
 -------
 
 
