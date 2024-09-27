@@ -18,7 +18,7 @@ Some of the fun projects developed by me (and, of course, my buddies ChatGPT and
 - [BubblePop](https://bubblewrappop.github.io/bubblepop/)
 - [NutriBuddy](https://nutribuddy.github.io/)
 - [ShakesPic](https://github.com/dundermain/shakespic)
-- [ImCaption]
+- [ImCaption](https://github.com/dundermain/imcaption)
 <!-- BLOG-POST-LIST:END -->
 
 
