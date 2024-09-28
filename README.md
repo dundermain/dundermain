@@ -15,10 +15,11 @@
 Some of the fun projects developed by me (and, of course, my buddies ChatGPT and Gemini. I love you guys :heart: )
 
 <!-- BLOG-POST-LIST:START -->
-- [BubblePop](https://bubblewrappop.github.io/bubblepop/)
-- [NutriBuddy](https://nutribuddy.github.io/)
-- [ShakesPic](https://github.com/dundermain/shakespic)
-- [ImCaption](https://github.com/dundermain/imcaption)
+- [RPS (Rock Paper Scissor)](https://github.com/dundermain/rps) - Play rock paper scissors with yourselves
+- [ShakesPic](https://github.com/dundermain/shakespic) - Generate Shakespeare-style descriptions for your images
+- [ImCaption](https://github.com/dundermain/imcaption) - Generate captions for any photos
+- [BubblePop](https://bubblewrappop.github.io/bubblepop/)- Pop your bubbles away for fun!
+- [NutriBuddy](https://nutribuddy.github.io/) - Automated meal-prepping 
 <!-- BLOG-POST-LIST:END -->
 
 
