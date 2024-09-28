@@ -15,8 +15,9 @@
 Some of the fun projects developed by me (and, of course, my buddies ChatGPT and Gemini. I love you guys :heart: )
 
 <!-- BLOG-POST-LIST:START -->
-- [RPS (Rock Paper Scissor)](https://github.com/dundermain/rps) - Play rock paper scissors with yourselves
 - [ShakesPic](https://github.com/dundermain/shakespic) - Generate Shakespeare-style descriptions for your images
+- [RPS (Rock Paper Scissor)](https://github.com/dundermain/rps) - Play rock paper scissors with yourselves
+- [Picashu](https://github.com/dundermain/picashu) - Convert any boring picture into Monet or Van Gogh-style images
 - [ImCaption](https://github.com/dundermain/imcaption) - Generate captions for any photos
 - [BubblePop](https://bubblewrappop.github.io/bubblepop/)- Pop your bubbles away for fun!
 - [NutriBuddy](https://nutribuddy.github.io/) - Automated meal-prepping 
