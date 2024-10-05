@@ -6,7 +6,12 @@
 
 - I am currently working at [BrainSightAI](https://www.brainsightai.com/) as a Senior Imaging Engineer and Specialist Level-II 🧠
 - I can yap about Python, Machine Learning, Deep Learning, Neuroscience, Physics and Trains 🚋 .
-- You can reach out to me on Twitter or LinkedIn 
+- You can reach out to me on Twitter or LinkedIn
+
+- 🧑🏻‍🏫 I am currently learning
+   - Big data pipelines, storage and architecture
+   - AWS (and probably Azure in future)
+   - Data streaming and MLOps
   
 -------
 
