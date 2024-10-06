@@ -20,6 +20,7 @@
 Some of the fun projects developed by me (and, of course, my buddies ChatGPT and Gemini. I love you guys :heart: )
 
 <!-- BLOG-POST-LIST:START -->
+- [StockStream](https://github.com/dundermain/StockStream-Analytics) - Stock Market simulation and data handling using Apache Kafka
 - [ShakesPic](https://github.com/dundermain/shakespic) - Generate Shakespeare-style descriptions for your images
 - [RPS (Rock Paper Scissor)](https://github.com/dundermain/rps) - Play rock paper scissors with yourselves
 - [Picashu](https://github.com/dundermain/picashu) - Convert any boring picture into Monet or Van Gogh-style images
